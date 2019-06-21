@@ -4,7 +4,7 @@ then
     echo "Wrong number of arguments"
     exit 1
 fi
-
+#
 ROOTPATH="$1"
 FQDN=$2
 PASSWORD=$3
